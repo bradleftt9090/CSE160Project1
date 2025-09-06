@@ -8,12 +8,14 @@ The goal of this project is to extend the TinyOS skeleton code to support:
 
 ---
 
-## 🔧 Features
+## Features
 - TinyOS NesC implementation of flooding and neighbor discovery.  
 - Debug channels (`FLOODING_CHANNEL` and `NEIGHBOR_CHANNEL`) for verifying message flow and neighbor tracking.  
 - Simulation with TOSSIM using the command:  
   ```bash
   make micaz sim
+
+
 # Introduction
 This skeleton code is the basis for the CSE160 network project. Additional documentation
 on what is expected will be provided as the school year continues.
